@@ -7,7 +7,6 @@
 ### Tablet
 ![image](https://user-images.githubusercontent.com/61741903/202102674-8032400d-ba5d-4b1b-a3b5-74d9a362f9f9.png)
 
-###Phone
-
+### Phone
 ![image](https://user-images.githubusercontent.com/61741903/202102753-25fb7770-dd34-41bb-914a-91aab3c08121.png)
 
